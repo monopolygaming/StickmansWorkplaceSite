@@ -1,12 +1,12 @@
 @font-face {
-    font-family: "MS Sans Serif";
-    src: url(Fonts/MSSansSerif.ttf) format("truetype");
+    font-family: MS Sans Serif;
+    src: url(fonts/MSSansSerif.ttf) format("truetype");
 }
 
 body {
     background-color: black;
     color: white;
-    font-family: "MS Sans Serif";
+    font-family: MS Sans Serif;
 }
 
 .container {
