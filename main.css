@@ -22,11 +22,10 @@ body {
 
 a {
     color: white;
+    transition: color 0.2s ease;
     text-decoration: none;
 }
 
 a:hover {
     color: grey;
-    font-style: italic;
-    text-decoration: underline;
 }
